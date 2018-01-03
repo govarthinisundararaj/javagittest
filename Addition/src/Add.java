@@ -9,10 +9,13 @@ public class Add {
 		//q
 		a = sc.nextInt();
 		b = sc.nextInt();
-		System.out.print("sum = "+(a+b));
+
+		
 		for(i=0;i<n;i++)
 			System.out.println("qwerty");
-		//q
+
+		System.out.print("sum = "+(a-b));
+
 	}
 
 }
