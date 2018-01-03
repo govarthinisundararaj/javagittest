@@ -8,6 +8,7 @@ public class Main {
 		int r = sc.nextInt();
 		Details det = new Details(n,r);
 		det.display();
+		System.out.println("Hi");
 	}
 
 }
