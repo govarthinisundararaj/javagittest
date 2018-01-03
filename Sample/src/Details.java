@@ -10,6 +10,7 @@ public class Details {
 	public void display()
 	{
 		System.out.print(name+"-"+rollno);
+		System.out.println("Hi");
 	}
 	//asdf
 	
