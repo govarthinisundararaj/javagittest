@@ -7,7 +7,7 @@ public class Details {
 		this.name = name;
 		this.rollno = rollno;
 	}
-	//aa
+	//aaa
 	public void display()
 	{
 		System.out.print(name+"-"+rollno);
