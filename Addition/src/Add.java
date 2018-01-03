@@ -9,6 +9,7 @@ public class Add {
 		a = sc.nextInt();
 		b = sc.nextInt();
 		System.out.print("sum = "+(a+b));
+		//q
 	}
 
 }
