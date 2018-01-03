@@ -9,6 +9,7 @@ public class Main {
 		Details det = new Details(n,r);
 		det.display();
 		//changes in bugfix
+		//qwerty
 	}
 
 }
